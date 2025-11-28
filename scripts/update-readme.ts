@@ -45,7 +45,7 @@ function generatePostsSection(posts: Post[]): string {
     .map((post) => `- [${post.title}](${post.link}) - ${formatDate(post.pubDate)}`)
     .join("\n");
 
-  return `## Recent Writing
+  return `## 📝 Recent Writing
 
 ${postsList}`;
 }
@@ -63,7 +63,7 @@ async function updateReadme(): Promise<void> {
   const readme = readFileSync("README.md", "utf-8");
   const postsSection = generatePostsSection(posts);
 
-  const sectionRegex = /## Recent Writing[\s\S]*?(?=\n## |$)/;
+  const sectionRegex = /## 📝 Recent Writing[\s\S]*?(?=\n## |$)/;
 
   let updatedReadme: string;
   if (sectionRegex.test(readme)) {
