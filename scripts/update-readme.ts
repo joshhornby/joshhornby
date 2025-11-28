@@ -42,7 +42,7 @@ function formatDate(dateString: string): string {
 
 function generatePostsSection(posts: Post[]): string {
   const postsList = posts
-    .map((post) => `- [${post.title}](${post.link})`)
+    .map((post) => `- [${post.title}](${post.link}) - ${formatDate(post.pubDate)}`)
     .join("\n");
 
   return `## Recent Writing

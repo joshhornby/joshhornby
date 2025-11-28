@@ -2,11 +2,8 @@ Hey, I'm Josh, a Principal Engineer working at [Journey](https://journey.travel/
 
 ## Recent Writing
 
-- [My Weekly Update Framework](https://joshhornby.com/weekly-updates)
-- [The Local Optimisation Trap](https://joshhornby.com/local-optimisation)
-- [Judgement](https://joshhornby.com/judgement)
-- [Why Less Is More](https://joshhornby.com/less-is-more)
-- [Shaping Team Boundaries for Flow](https://joshhornby.com/shaping-team-boundaries)
-
-View my other posts on [joshhornby.com](https://joshhornby.com/)
-
+- [My Weekly Update Framework](https://joshhornby.com/weekly-updates) - 28 Nov 2025
+- [The Local Optimisation Trap](https://joshhornby.com/local-optimisation) - 27 Oct 2025
+- [Judgement](https://joshhornby.com/judgement) - 22 Oct 2025
+- [Why Less Is More](https://joshhornby.com/less-is-more) - 17 Sept 2025
+- [Shaping Team Boundaries for Flow](https://joshhornby.com/shaping-team-boundaries) - 1 Sept 2025
