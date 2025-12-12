@@ -4,8 +4,8 @@ A Principal Engineer working at [Journey](https://journey.travel/). In the past 
 
 ## 📝 Recent Writing
 
+- [Using Hill Charts for Progress Tracking](https://joshhornby.com/hill-charts) - 11 Dec 2025
 - [Four Questions I Answer Every Week](https://joshhornby.com/weekly-updates) - 28 Nov 2025
 - [The Local Optimisation Trap](https://joshhornby.com/local-optimisation) - 27 Oct 2025
 - [Judgement](https://joshhornby.com/judgement) - 22 Oct 2025
 - [Why Less Is More](https://joshhornby.com/less-is-more) - 17 Sept 2025
-- [Shaping Team Boundaries for Flow](https://joshhornby.com/shaping-team-boundaries) - 1 Sept 2025
