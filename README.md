@@ -4,8 +4,8 @@ A Principal Engineer working at [Journey](https://journey.travel/). In the past 
 
 ## 📝 Recent Writing
 
+- [Balancing Coding and Leading](https://joshhornby.com/balancing-coding-and-leading) - 27 Jan 2026
 - [Your First 90 Days as Tech Lead](https://joshhornby.com/your-first-90-days-as-tech-lead) - 23 Jan 2026
 - [What is a Tech Lead?](https://joshhornby.com/what-is-a-tech-lead) - 20 Jan 2026
 - [Serving Markdown for AI Agents](https://joshhornby.com/serving-markdown-for-ai-agents) - 19 Jan 2026
 - [Building AI Agents with the Claude Agent SDK](https://joshhornby.com/building-agents-with-claude-agent-sdk) - 13 Jan 2026
-- [What is an AI Agent?](https://joshhornby.com/what-is-an-ai-agent) - 8 Jan 2026
